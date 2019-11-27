@@ -1,5 +1,5 @@
 suite_namespace: common\tests\unit
-actor: UnitTester
+actor: ApiTester
 bootstrap: false
 modules:
     enabled:
